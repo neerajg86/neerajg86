@@ -1,5 +1,5 @@
 <h2 align="left">
-Hi 👋! My name is Neeraj Gupta and I'm a SQL Developer & Data / Database Enthusiast from India 🇮🇳
+Hi 👋! My name is Neeraj Gupta and I'm a SQL Developer & Data Enthusiast from India 🇮🇳
 </h2>
 
 ###
