@@ -4,13 +4,6 @@ Hi 👋! My name is Neeraj Gupta and I'm a SQL Developer & Data / Database Enthu
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neerajg86&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajg86&layout=compact&langs_count=6&theme=dracula" height="150"/>
-</div>
-
-###
-
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ###
